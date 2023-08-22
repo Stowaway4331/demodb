@@ -1,0 +1,147 @@
+{
+  "stats": [
+    {
+      "id": 1,
+      "name": "revenues",
+      "data": 2129430
+    },
+    {
+      "id": 2,
+      "name": "transactions",
+      "data": 1520
+    },
+    {
+      "id": 3,
+      "name": "likes",
+      "data": 9721
+    },
+    {
+      "id": 4,
+      "name": "users",
+      "data": 892
+    }
+  ],
+
+  "activity": [
+    [
+      {
+        "name": "",
+        "user": 422,
+        "guest": 452
+      },
+      {
+        "name": "Week 1",
+        "user": 242,
+        "guest": 128
+      },
+      {
+        "name": "Week 2",
+        "user": 123,
+        "guest": 242
+      },
+      {
+        "name": "Week 3",
+        "user": 222,
+        "guest": 132
+      },
+      {
+        "name": "Week 4",
+        "user": 306,
+        "guest": 200
+      }
+    ],
+    [
+      {
+        "name": "",
+        "user": 332,
+        "guest": 122
+      },
+      {
+        "name": "Week 1",
+        "user": 231,
+        "guest": 502
+      },
+      {
+        "name": "Week 2",
+        "user": 203,
+        "guest": 192
+      },
+      {
+        "name": "Week 3",
+        "user": 501,
+        "guest": 157
+      },
+      {
+        "name": "Week 4",
+        "user": 306,
+        "guest": 200
+      }
+    ],
+    [
+      {
+        "name": "",
+        "user": 312,
+        "guest": 322
+      },
+      {
+        "name": "Week 1",
+        "user": 531,
+        "guest": 502
+      },
+      {
+        "name": "Week 2",
+        "user": 303,
+        "guest": 292
+      },
+      {
+        "name": "Week 3",
+        "user": 201,
+        "guest": 257
+      },
+      {
+        "name": "Week 4",
+        "user": 406,
+        "guest": 100
+      }
+    ]
+  ],
+  "products": [
+    [
+      { "name": "Basic Tees", "value": 55 },
+      { "name": "Custom Short Pants", "value": 31 },
+      { "name": "Super Hoodies", "value": 14 }
+    ],
+    [
+      { "name": "Basic Tees", "value": 49 },
+      { "name": "Custom Short Pants", "value": 33 },
+      { "name": "Super Hoodies", "value": 18 }
+    ],
+    [
+      { "name": "Basic Tees", "value": 38 },
+      { "name": "Custom Short Pants", "value": 40 },
+      { "name": "Super Hoodies", "value": 22 }
+    ]
+  ],
+  "schedules": [
+    {
+      "subject": "Meeting with suppliers from Kuta Bali",
+      "time": "14:00 - 15:00",
+      "location": "Sunset Rd, Kuta, Bali"
+    },
+    {
+      "subject": "Check operations at Giga Factory 1",
+      "time": "18:00 - 20:00",
+      "location": "Central Jakarta"
+    },
+    {
+      "subject": "One more Random schedule",
+      "time": "20:30 - 21:00",
+      "location": "North Jakarta"
+    },
+    {
+      "subject": "Change FOC charts in Tees factory",
+      "time": "21:00 - 22:00",
+      "location": "North Jakarta"
+    }
+  ]
+}
